@@ -2,6 +2,7 @@
 toobar 小工具
 
 XML加元件:
+```android
  <android.support.v7.widget.Toolbar
         android:id="@+id/toolbarTitle"
         android:layout_width="match_parent"
@@ -31,3 +32,4 @@ XML加元件:
             android:visibility="invisible"
             android:layout_gravity="end"/>
     </android.support.v7.widget.Toolbar>
+```
