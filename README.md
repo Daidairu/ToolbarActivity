@@ -1,5 +1,5 @@
 # ToolbarActivity
-toobar 小工具  自己用的 寫很爛 :P
+toobar 小工具 自用 單純筆記 :P
 
 XML加元件:
 ```android
