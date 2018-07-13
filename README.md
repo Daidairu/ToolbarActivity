@@ -33,3 +33,17 @@ XML加元件:
             android:layout_gravity="end"/>
     </android.support.v7.widget.Toolbar>
 ```
+
+activity 繼承 ToolbarActivity
+
+```android
+public class MainActivity extends ToolbarActivity
+```
+
+直接使用方法 setToolbar(String toolbar標題名稱 ,boolean 是否顯示返回的箭頭按鈕);
+
+```android
+//繼承自訂的ToolbarActivity 來啟用setToolbar方法自訂Toolbar
+        setToolbar("toolbar標題名稱", true);
+ ```
+
